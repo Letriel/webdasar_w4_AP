@@ -1,0 +1,44 @@
+body {
+    background-image: url(Background.png);
+    background-size: 100%;
+    font-family: Arial;
+    margin-bottom: auto;
+
+}
+.form {
+    background-color: white;
+    width: 400px;
+    margin: auto;
+}   
+.headline {
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 30px;
+    font-size:larger;
+
+}
+.textbox {
+    border-radius: 20px;
+    width: 80%;
+    margin: 0%;
+    padding: 7px;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+.divsubmit {
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    text-transform: capitalize;
+    padding: 20px
+}
+.register {
+    color: yellow;
+    font-weight: 900;
+    margin: auto;
+    background-color: black;
+    width: 40%;
+    height: 30px;
+    text-transform:uppercase;
+    border-radius: 20px;
+}
