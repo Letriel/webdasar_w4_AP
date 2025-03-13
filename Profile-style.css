@@ -1,0 +1,50 @@
+#headline {
+    color:white;
+    text-align: center;
+}
+body {
+    background-image: url(cat.jpg);
+    background-size: 20%;
+}
+div {
+    font-family: Arial, sans-serif;
+}
+#judul {
+    margin: auto;
+    background-color: cadetblue;
+    width: 75%;
+    border-radius: 20px;
+}
+#isi {
+    margin: auto;
+    background-color: white;
+    width: 75%;
+    border: 20px;
+}
+#sisikiri {
+    width: 35%;
+}
+#sisikanan {
+    width: 65%;
+}
+#email, #NRP, #nama {
+    color:red;
+}
+li {
+    list-style-type: katakana;
+}
+
+#linkone {
+    color:red;
+    text-decoration:none;
+}
+#linkone:hover {
+    color: white;
+}
+#linkproject {
+    color:cadetblue
+}
+#linkproject:hover {
+    background-color: aqua;
+    font-size: larger;
+}

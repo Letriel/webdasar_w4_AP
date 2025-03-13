@@ -1,0 +1,18 @@
+body {
+    background-image: url(Background.png);
+    background-size: 100%;
+}
+.form {
+    background-color: white;
+    width: 400px;
+    margin: auto;
+}   
+.headline {
+    text-decoration: underline;
+    text-align: center;
+}
+.textbox {
+    border-radius: 20px;
+    width: 80%;
+    margin:0%;
+}
